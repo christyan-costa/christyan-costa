@@ -1,4 +1,4 @@
-## Olá, meu nome é Christyan!👋
+## Olá!👋
 
 Atualmente trabalho na área de ciência de dados. Dedicando-me ao estudo, análise e desenvolvimento de modelos de Machine Learning aplicados à resolução de problemas de negócio.
 Também possuo interesse em programação e desenvolvimento de software.
